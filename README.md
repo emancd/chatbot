@@ -18,6 +18,6 @@ A simple and interactive chatbot built with React that responds to basic greetin
 
 ## 🚀 How to Run Locally
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/emancd/chatbot.git
