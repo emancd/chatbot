@@ -7,6 +7,7 @@ A simple and interactive chatbot built with React that responds to basic greetin
 - Welcomes users with a friendly "Hello"
 - Tells the current date when asked
 - Says goodbye with a positive message
+- Keeps your conversation history even after refreshing.
 - Clean and responsive chat interface
 - Real-time message handling with smooth scrolling
 
