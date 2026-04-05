@@ -11,3 +11,20 @@
   color: rgb(120, 120, 120);
   text-align: center;
 }
+
+
+@media (max-width: 768px) {
+    .app-container {
+        height: 100dvh; /* Dynamic height for mobile browsers */
+    }
+
+    .chat-input-container {
+        margin-bottom: 10px; /* Reducing that 60px gap for mobile */
+        padding: 10px;
+        padding-bottom: 20px; /* Thumb-space */
+    }
+
+    .chat-message-text {
+        max-width: 85%; /* Let bubbles fill more of the narrow screen */
+    }
+}
